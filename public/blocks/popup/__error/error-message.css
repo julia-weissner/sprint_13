@@ -1,0 +1,10 @@
+.error-message {
+    color: red;
+    font-size: 12px;
+    position: absolute;
+     
+}
+
+.error-message:first-of-type {
+    top: 172px;
+  }

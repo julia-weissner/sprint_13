@@ -1,0 +1,16 @@
+.profile__button {
+  font-size: 12px;
+  width: 38px;
+  height: 18px;
+  display: block;
+  position: relative;
+  margin-top: 24px;
+  margin-left: 187px;
+}
+
+@media screen and (max-width: 980px) {
+    .profile__button {
+      margin: auto;
+      margin-bottom: 20px;
+    }
+  }
