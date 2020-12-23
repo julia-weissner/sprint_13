@@ -4,5 +4,5 @@
     "no-underscore-dangle": "off",
     "no-console": "off"
   },
-  "allow": ["foo_", "_bar"]
+  "parser": "babel-eslint"
 }
